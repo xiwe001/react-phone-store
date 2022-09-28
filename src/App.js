@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import {Routes,Route} from 'react-router-dom'
-// import { FaHome } from "react-icons/fa";
 import ProductList from './components/ProductList'
 import Navbar from './components/Navbar'
 import Details from './components/Details'
